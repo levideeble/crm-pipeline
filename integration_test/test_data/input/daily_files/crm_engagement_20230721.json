@@ -1,0 +1,62 @@
+[
+    {
+      "userId": "user1",
+      "campaign": "6fg7e8",
+      "eventTimestamp": "2023-07-21T09:08:19.9947",
+      "action": "MESSAGE_DELIVERED"
+    },
+    {
+      "userId": "user1",
+      "campaign": "6fg7e8",
+      "eventTimestamp": "2023-07-21T10:08:19.9947",
+      "action": "MESSAGE_OPENED"
+    },
+    {
+      "userId": "user1",
+      "campaign": "6fg7e8",
+      "eventTimestamp": "2023-07-21T11:08:19.9947",
+      "action": "DELIVERY_FAILED"
+    },
+    {
+      "userId": "user1",
+      "campaign": "6fg7e8",
+      "eventTimestamp": "2023-07-21T12:08:19.9947",
+      "action": "MESSAGE_DELIVERED"
+    },
+    {
+      "userId": "user2",
+      "campaign": "cb571",
+      "eventTimestamp": "2023-07-21T13:08:19.9947",
+      "action": "MESSAGE_DELIVERED"
+    },
+    {
+      "userId": "user2",
+      "campaign": "cb571",
+      "eventTimestamp": "2023-07-21T14:08:19.9947",
+      "action": "MESSAGE_OPENED"
+    },
+    {
+      "userId": "user2",
+      "campaign": "cb571",
+      "eventTimestamp": "2023-07-21T15:08:19.9947",
+      "action": "MESSAGE_DELIVERED"
+    },
+    {
+      "userId": "user2",
+      "campaign": "cb571",
+      "eventTimestamp": "2023-07-21T16:08:19.9947",
+      "action": "MESSAGE_OPENED"
+    },
+    {
+      "userId": "user2",
+      "campaign": "cb571",
+      "eventTimestamp": "2023-07-21T17:08:19.9947",
+      "action": "MESSAGE_DELIVERED"
+    },
+    {
+      "userId": "user2",
+      "campaign": "cb571",
+      "eventTimestamp": "2023-07-21T18:08:19.9947",
+      "action": "MESSAGE_OPENED"
+    }
+  ]

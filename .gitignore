@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.DS_Store
+integration_test/test_data/internal/
+integration_test/test_data/output/
+*.parquet
+*.snappy.parquet
